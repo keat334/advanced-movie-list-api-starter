@@ -1,0 +1,8 @@
+.movie-list {
+  list-style: none;
+}
+
+.movie-list-item {
+  margin-top: 10px;
+  height: 400px;
+}

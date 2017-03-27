@@ -1,0 +1,7 @@
+.movie-details-hidden {
+  display: none
+}
+
+.movie-details-visible {
+  display: block
+}
