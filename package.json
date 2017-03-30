@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mordanjitchell/advanced-movie-list-api-starter.git"
+    "url": "git+https://github.com/keat334/advanced-movie-list-api-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mordanjitchell/advanced-movie-list-api-starter/issues"
+    "url": "https://github.com/keat334/advanced-movie-list-api-starter/issues"
   },
-  "homepage": "https://github.com/mordanjitchell/advanced-movie-list-api-starter#readme",
+  "homepage": "https://github.com/keat334/advanced-movie-list-api-starter#readme",
   "dependencies": {
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
